@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi, I'm Raghav Sarangan, a Machine Learning Engineer and incoming M.Sc. Computer Science student at Philipps-Universität Marburg, Germany.<br>I am passionate about building intelligent systems using Machine Learning, Computer Vision, and Artificial Intelligence. My work focuses on designing data-driven solutions and developing deep learning models that solve real-world problems.<br>I have industry experience working on medical AI systems, including image segmentation, diagnostic report generation with large language models, and automated deep learning pipelines. My projects explore both research-oriented AI methods and practical applications.<br>Currently, I am interested in Computer Vision, Deep Learning, NLP models, Multimodal AI systems and Applied Machine Learning for real-world problems<br>I enjoy experimenting with new ideas, building reproducible ML pipelines, and continuously improving my understanding of modern AI systems.
 
 
