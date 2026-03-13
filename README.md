@@ -56,3 +56,6 @@ Open to opportunities across all domains of AI and ML — medical imaging is my 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghav-sarangan-ramanujam-896aa0251)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saranganraghav@gmail.com)
+
+📧 saranganraghav@gmail.com  
+📧 ramanuja@uni-marburg.de
