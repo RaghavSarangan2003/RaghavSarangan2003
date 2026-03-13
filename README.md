@@ -5,7 +5,7 @@ M.Sc. Computer Science — Philipps-Universität Marburg, Germany.
 
 Specialising in **computer vision** and **medical image segmentation** — deployed deep learning models on clinical datasets at scale, including chest X-ray abnormality detection across 25,000 images and 3D CT segmentation with nnU-Net v2.
 
-📄 **Preprint:** [A Reproducible 2D U-Net Baseline for Brain Tumor Segmentation with Structured Error Analysis](https://doi.org/10.5281/zenodo.18989161)
+📄 **Preprint:** [A Reproducible 2D U-Net Baseline for Brain Tumor Segmentation with Structured Error Analysis](https://doi.org/10.5281/zenodo.18995414)
 
 ---
 
